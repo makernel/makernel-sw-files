@@ -18,7 +18,7 @@
 #include "Arduino.h"
 #include "Wire.h"
 
-#include <Math.h>
+#include <math.h>
 
 #define MULTIPLEXOR_ADDRESS 0x70    //multiplexor slave address
 
