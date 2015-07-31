@@ -1,0 +1,117 @@
+#######################################
+
+# Syntax Coloring Map For Briko
+#######################################
+
+#######################################
+
+# Datatypes (KEYWORD1)
+
+#######################################
+
+buttonsbk	KEYWORD1
+buzzerbk	KEYWORD1
+displaybk	KEYWORD1
+lightbk	KEYWORD1
+motorbk	KEYWORD1
+knobbk	KEYWORD1
+relaybk	KEYWORD1
+servobk	KEYWORD1
+distancebk	KEYWORD1
+temperaturebk	KEYWORD1
+code	KEYWORD1
+stringbk	KEYWORD1
+ledsbk	KEYWORD1
+
+
+#######################################
+
+# Methods and Functions (KEYWORD2)
+
+#######################################
+
+
+
+read	KEYWORD2
+readbits	KEYWORD2
+print	KEYWORD2
+printindividual	KEYWORD2
+printcustom	KEYWORD2
+begin	KEYWORD2
+color	KEYWORD2
+brightness	KEYWORD2
+set	KEYWORD2
+turn	KEYWORD2
+beep	KEYWORD2
+playtone	KEYWORD2
+erase	KEYWORD2
+test	KEYWORD2
+serialinit	KEYWORD2
+bk7led	KEYWORD2
+bk7print	KEYWORD2
+bk7write	KEYWORD2
+bk7read	KEYWORD2
+bk7message	KEYWORD2
+bk7clean	KEYWORD2
+bk7btwrite	KEYWORD2
+bk7btread	KEYWORD2
+bk7btclean	KEYWORD2
+bk7keywrite	KEYWORD2
+bk7keyprint	KEYWORD2
+bk7keypress	KEYWORD2
+bk7keyrelease	KEYWORD2
+bk7keyreleaseall	KEYWORD2
+bk7keyend	KEYWORD2
+bk7keybuttons	KEYWORD2
+bk7mouseclick	KEYWORD2
+bk7mousemove	KEYWORD2
+bk7mousepress	KEYWORD2
+bk7mouserelease	KEYWORD2
+bk7keymouseend	KEYWORD2
+
+#######################################
+
+# Constants (LITERAL1)
+
+#######################################
+
+
+
+SHIELD	LITERAL1
+PORT1	LITERAL1
+PORT2	LITERAL1
+PORT3	LITERAL1
+PORT4	LITERAL1
+PORT5	LITERAL1
+PORT6	LITERAL1
+PORT7	LITERAL1
+ON	    LITERAL1
+OFF	    LITERAL1
+BLACK 	LITERAL1
+WHITE	LITERAL1
+RED	    LITERAL1
+LIME 	LITERAL1
+BLUE	LITERAL1
+YELLOW 	LITERAL1
+AQUA	LITERAL1
+MAGENTA	LITERAL1
+GRAY 	LITERAL1
+MAROON	LITERAL1
+OLIVE 	LITERAL1
+GREEN 	LITERAL1
+PURPLE 	LITERAL1
+TEAL 	LITERAL1
+NAVY	LITERAL1
+ORANGE	LITERAL1
+PINK 	LITERAL1
+BROWN 	LITERAL1
+STOP	LITERAL1
+RIGHT	LITERAL1
+LEFT	LITERAL1
+CM	    LITERAL1
+IN	    LITERAL1
+error	LITERAL1
+C	    LITERAL1
+F	    LITERAL1
+DISPLAY_TWO_DOTS	LITERAL1
+DISPLAY_UP_DOT	LITERAL1
